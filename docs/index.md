@@ -1,15 +1,38 @@
 # Ricardo Paredes
 
-**Research Engineering & AI Systems**
+<div class="hero">
+  <div class="hero-title">Research Engineering & AI Systems</div>
+  <div class="hero-subtitle">
+    I build and document work around AI systems, backend engineering, cloud infrastructure,
+    competitive programming, and technical education.
+  </div>
+</div>
 
-I build and document work around AI systems, backend engineering, cloud infrastructure, competitive programming, and technical education.
+<div class="card-grid">
+  <div class="card">
+    <h3>Guides</h3>
+    <p>Practical explanations, tutorials, and learning methods.</p>
+    <a href="guides/">Explore guides →</a>
+  </div>
 
-## Start here
+  <div class="card">
+    <h3>Projects</h3>
+    <p>Systems, experiments, and prototypes I am building.</p>
+    <a href="projects/">View projects →</a>
+  </div>
 
-- [Guides](guides.md): practical explanations, tutorials, and learning methods.
-- [Projects](projects.md): systems, experiments, and prototypes.
-- [Tags](tags.md): explore content by topic.
-- [About](about.md): background and contact.
+  <div class="card">
+    <h3>Tags</h3>
+    <p>Browse content by topic across AI, backend, cloud, and CS.</p>
+    <a href="tags/">Browse tags →</a>
+  </div>
+
+  <div class="card">
+    <h3>About</h3>
+    <p>Background, focus areas, and contact links.</p>
+    <a href="about/">Read more →</a>
+  </div>
+</div>
 
 ## Featured
 

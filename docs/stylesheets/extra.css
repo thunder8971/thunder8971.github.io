@@ -1,0 +1,59 @@
+.md-typeset h1 {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.md-typeset h2 {
+  font-weight: 700;
+}
+
+.hero {
+  padding: 2.5rem 0 1.5rem 0;
+}
+
+.hero-title {
+  font-size: 2.4rem;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  margin-bottom: 0.3rem;
+}
+
+.hero-subtitle {
+  font-size: 1.15rem;
+  opacity: 0.85;
+  max-width: 760px;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.8rem;
+  padding: 1.1rem;
+  background: var(--md-code-bg-color);
+}
+
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.card p {
+  margin-bottom: 0.8rem;
+  opacity: 0.85;
+}
+
+.card a {
+  font-weight: 700;
+}
+
+.md-header__button.md-logo img {
+  height: 2rem;
+  width: 2rem;
+  object-fit: contain;
+}
